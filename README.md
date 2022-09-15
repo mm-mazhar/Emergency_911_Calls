@@ -1,6 +1,6 @@
 # Emergency 911 Calls
 
-* [go to Kaggle](https://www.kaggle.com/code/mazhar01/emergency-911-calls)
+* [go to KAGGLE](https://www.kaggle.com/code/mazhar01/emergency-911-calls)
 - This involves pandas, seaborn, plotly
 
 
